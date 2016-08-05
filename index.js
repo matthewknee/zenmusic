@@ -23,7 +23,6 @@ var votes = {};
 // Uncomment the bellow line if you are running in Heruko
 
 
-/* 
 
 var http = require('http');
 
@@ -37,7 +36,6 @@ http.createServer(function(request, response) {
   });
 }).listen(process.env.PORT || 5000);
 
-*/
 
 
 const RtmClient = require('@slack/client').RtmClient;
