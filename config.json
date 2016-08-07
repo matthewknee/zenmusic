@@ -1,7 +1,7 @@
 {
 	    "adminChannel" : "music-admin",
 	    "standardChannel" : "music",
-	    "sonos" : "49.255.250.5:1400",
+	    "sonos" : "49.255.250.5",
 	    "token" : "xoxb-62811452039-zcSO1saFFVvldszkxh7SN944",
 	    "market" : "US"
 }
